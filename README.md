@@ -23,6 +23,8 @@ Client Settings:<br>
 Auto-Join Lobby (true)<br>
 Enable Lobby Stats (false)<br>
 
+The demo scene should then be able to build and run.
+
 
 Contact me anytime at seangkelly@nyu.edu for questions/comments.
 
